@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MACollectionUtilities"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Smalltalk-inspired methods and macros on Cocoa collection classes, taking advantage of blocks."
   s.homepage     = "https://github.com/mikeash/MACollectionUtilities"
   s.license      = 'MIT'
